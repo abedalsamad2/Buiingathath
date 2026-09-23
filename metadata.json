@@ -1,0 +1,6 @@
+{
+  "name": "شراء أثاث مستعمل ومكيفات بالرياض",
+  "description": "شركة متخصصة في شراء الأثاث المستعمل والمكيفات والمطابخ والسكراب ومعدات المطاعم في الرياض بأفضل الأسعار نقداً وفك ونقل مجاني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
